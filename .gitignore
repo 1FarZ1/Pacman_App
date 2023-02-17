@@ -48,5 +48,3 @@ app.*.map.json
 
 
 
-*.cc -linguist-detectable
-*.cpp -linguist-detectable
